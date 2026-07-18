@@ -5,23 +5,23 @@
 
 ### 🧠 About Me
 
-- 🎯 I specialize in cyber threat intelligence, threat hunting, and building automation systems for security operations.  
-- 🧩 I develop operational solutions for phishing detection, brand impersonation, credential leak investigation, and deep/dark web analysis.  
-- 🛠️ My focus is on scalable, data-driven, and automated systems that empower cybersecurity teams and reduce manual workload.  
-- 📊 I turn open-source intelligence (OSINT) techniques into actionable insights for early threat detection and mitigation.
+-  I specialize in cyber threat intelligence, threat hunting, and building automation systems for security operations.  
+-  I develop operational solutions for phishing detection, brand impersonation, credential leak investigation, and deep/dark web analysis.  
+-  My focus is on scalable, data-driven, and automated systems that empower cybersecurity teams and reduce manual workload.  
+-  I turn open-source intelligence (OSINT) techniques into actionable insights for early threat detection and mitigation.
 
 ---
 
 ### ⚙️ Technical Skill Set
 
-**🧑‍💻 Programming & Automation**  
+** Programming & Automation**  
 - Python (Flask, FastAPI, Asyncio, Requests, BeautifulSoup, Selenium)  
 - Node.js (Express, Puppeteer)  
 - Bash / Shell scripting  
 - Flutter (cross-platform mobile apps)  
 - HTML, Markdown, JSON, Jinja2
 
-**📦 Infrastructure & Deployment**  
+** Infrastructure & Deployment**  
 - Docker, Docker Compose, Portainer  
 - Linux (Debian, Ubuntu, Raspberry Pi OS Lite)  
 - CI/CD automation (GitHub Actions, cronjobs)  
@@ -68,7 +68,7 @@
 
 ---
 
-### 🚀 Projects & Work Focus
+### Projects & Work Focus
 
 - 🔍 Multi-source threat enrichment pipelines with automated reporting  
 - ⚙️ Brand protection systems for detecting domain impersonation and phishing  
@@ -77,15 +77,8 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 - 📩 gorkemguler[at]protonmail.com
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorkemguler&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemguler&layout=compact&theme=radical" width="45%" />
-</p>
