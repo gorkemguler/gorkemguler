@@ -1,84 +1,96 @@
-<h1 align="center">👋 Hi, I'm Görkem</h1>
-<p align="center">Threat Intelligence Analyst • Threat Hunter • Security Automation Developer • OSINT Specialist</p>
+<div align="center">
+
+```text
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  CLASSIFIED // CYBER THREAT INTELLIGENCE & THREAT HUNTING DOSSIER     │
+  │  OPERATIVE IDENTIFIER : GÖRKEM GÜLER (@gorkemguler)                    │
+  │  CLEARANCE LEVEL     : LEVEL-5 / CTI & OSINT SPECIALIST                │
+  │  STATUS              : OPERATIONAL // ACTIVE HUNTING                   │
+  └────────────────────────────────────────────────────────────────────────┘
+```
+
+# GÖRKEM GÜLER
+### *Cyber Threat Intelligence Analyst • Threat Hunter • Security Automation Developer*
+`𐰶𐰼𐰃𐰯𐱃𐰆 𐰋𐰀𐰼𐰃 𐱁𐰃𐰯𐰼𐰀𐰞𐰀𐰢𐰀 𐰋𐰀 𐱅𐰀𐰏𐱅𐰃𐰛 𐱅𐰏𐰓𐰃𐱅 𐰀𐰉𐰞𐰀𐰢𐰀`
+
+[![Status: Operational](https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen.svg?style=for-the-badge&logo=opsgenie)](https://github.com/gorkemguler)
+[![Clearance: Top Secret](https://img.shields.io/badge/CLEARANCE-TOP_SECRET-red.svg?style=for-the-badge&logo=googleadmin)](https://github.com/gorkemguler)
+[![Specialization: CTI](https://img.shields.io/badge/SPECIALIZATION-CTI_%2F_OSINT-blue.svg?style=for-the-badge&logo=python)](https://github.com/gorkemguler)
+
+</div>
 
 ---
 
-### 🧠 About Me
-
--  I specialize in cyber threat intelligence, threat hunting, and building automation systems for security operations.  
--  I develop operational solutions for phishing detection, brand impersonation, credential leak investigation, and deep/dark web analysis.  
--  My focus is on scalable, data-driven, and automated systems that empower cybersecurity teams and reduce manual workload.  
--  I turn open-source intelligence (OSINT) techniques into actionable insights for early threat detection and mitigation.
-
----
-
-### ⚙️ Technical Skill Set
-
-** Programming & Automation**  
-- Python (Flask, FastAPI, Asyncio, Requests, BeautifulSoup, Selenium)  
-- Node.js (Express, Puppeteer)  
-- Bash / Shell scripting  
-- Flutter (cross-platform mobile apps)  
-- HTML, Markdown, JSON, Jinja2
-
-** Infrastructure & Deployment**  
-- Docker, Docker Compose, Portainer  
-- Linux (Debian, Ubuntu, Raspberry Pi OS Lite)  
-- CI/CD automation (GitHub Actions, cronjobs)  
-- Deployments via Render, Vercel, Netlify
-
-**📁 Data Handling & Reporting**  
-- Automated HTML/PDF report generation  
-- Headless browser-based screenshot capture  
-- SMTP/IMAP integration for email workflows  
-- JWT, UUID, hashing, session-based auth systems
+> [!IMPORTANT]
+> **OPERATIONAL BRIEFING & MISSION DIRECTIVE:**
+> - **Primary Focus:** Advanced Cyber Threat Intelligence (CTI), proactive threat hunting, and custom defensive security automation.
+> - **Special Force Capabilities:** Building automated pipelines for phishing domain identification, brand impersonation teardowns, stealer log extraction, and deep/dark web intelligence correlation.
+> - **Core Objective:** Converting raw threat data and open-source intelligence (OSINT) into actionable tactical defense protocols to neutralize adversaries pre-exploitation.
 
 ---
 
-### 🔐 Cybersecurity & OSINT Expertise
+## 🛰️ TACTICAL CAPABILITIES MATRIX
 
-**• Network Reconnaissance & Vulnerability Scanning**  
-- Nmap (vuln scripts, SSL cipher analysis), Masscan, testssl.sh  
-- CDN bypassing, real IP discovery, TLS misconfig detection  
-
-**• DNS & Domain Intelligence**  
-- WHOIS, RDAP, Passive DNS, zone transfer tests  
-- Certificate Transparency logs (crt.sh scraping), historical domain data (Wayback, CommonCrawl)  
-
-**• Phishing & Brand Abuse Detection**  
-- Unicode/homoglyph domain identification  
-- HTML/CSS similarity scoring for fake site detection  
-- End-to-end takedown flow 
-
-**• Stealer Logs & Credential Leak Analysis**  
-- Parsing logs from stealers (Clipper, Formgrabber modules)  
-- Detection of malicious C2 panels, credential exposure patterns  
-- IOC correlation (hashes, domains, IPs, registry artifacts)  
-
-**• Advanced OSINT & Deep Web Analytics**  
-- Surface fingerprinting with Shodan & Censys  
-- Telegram OSINT (user, group, bot & impersonation analysis)  
-- Breach forum monitoring & keyword-based deep web tracking  
-- Dynamic malware behavior correlation via URLScan.io, ANY.RUN, Hybrid Analysis  
-
-**• Automation & Intelligence Integration**  
-- Python + Headless Chromium for dynamic scraping  
-- IOC schema generation (OpenCTI / MISP compatible JSON templates)  
-- Automated abuse reporting via API integrations (e.g., Cloudflare, Namecheap)
+```text
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│ 01. THREAT INTELLIGENCE & HUNTING                                                   │
+├─────────────────────────────────────────────────────────────────────────────────────┤
+│  • Stealer Log Parsing (Clipper, Formgrabber, RedLine IOC correlation)              │
+│  • Malicious C2 Infrastructure Fingerprinting & Beacon Tracking                     │
+│  • Brand Impersonation & Homoglyph Domain Detection                                  │
+│  • Certificate Transparency Scraping (crt.sh) & Passive DNS Reconnaissance          │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│ 02. OSINT & DEEP/DARK WEB RECON                                                     │
+├─────────────────────────────────────────────────────────────────────────────────────┤
+│  • Shodan, Censys, & ZoomEye Perimeter Fingerprinting                               │
+│  • Dark Web Breach Forum Scraping & Keyword Trigger Tracking                        │
+│  • Telegram OSINT (Bot, Channel, and Impersonation Investigation)                   │
+│  • Automated Takedown Workflows & Abuse API Integrations (Cloudflare, Registrar)    │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│ 03. DEFENSIVE AUTOMATION & INFRASTRUCTURE                                           │
+├─────────────────────────────────────────────────────────────────────────────────────┤
+│  • Python (FastAPI, Asyncio, Pytest, Playwright/Selenium Headless Scraping)         │
+│  • Docker, Docker Compose, Portainer & Linux Hardening (Debian/Ubuntu)              │
+│  • MISP & OpenCTI Compatible JSON IOC Schema Generation                             │
+│  • Headless Browser Screenshotting & Automated PDF/HTML Report Pipelines            │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### Projects & Work Focus
+## 🛠️ TACTICAL ARSENAL & WEAPONRY
 
-- 🔍 Multi-source threat enrichment pipelines with automated reporting  
-- ⚙️ Brand protection systems for detecting domain impersonation and phishing  
-- 📡 Credential leak and stealer log analysis frameworks  
-- 📱 Notification-based mobile applications with time-based consumption tracking
+| Arsenal / Project | Classification | Description | Status |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **[UmayCrypt](https://github.com/gorkemguler/umaycrypt)** | Data Shield / CLI Crypto | Göktürk (Orkhon)-encoded AES-256-GCM + Argon2id CLI Data Protection Tool | `ACTIVE` |
+| 📡 **CTI Threat Pipeline** | Intel Engine | Multi-source threat enrichment & automated incident report generator | `ACTIVE` |
+| 🎯 **PhishHunter Engine** | Brand Defense | Automated domain similarity scoring & registrar takedown automation | `ACTIVE` |
+| 🔍 **Stealer Log Parser** | Leak Analytics | Credential exposure parsing & C2 indicator correlation framework | `ACTIVE` |
+
+---
+
+## 📊 OPERATIONAL METRICS & SYSTEM STATUS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gorkemguler&show_icons=true&theme=dark&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=8892b0&bg_color=0a0f1d" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemguler&layout=compact&theme=dark&hide_border=true&title_color=00f0ff&text_color=8892b0&bg_color=0a0f1d" alt="Top Languages" width="46%" />
+
+</div>
 
 ---
 
-### Contact
+## 🔒 SECURE COMMS & COMINT
 
-- 📩 gorkemguler[at]protonmail.com
+```text
+[COMMUNICATION FREQUENCY]
+├── ProtonMail : gorkemguler[at]protonmail.com
+├── GitHub     : @gorkemguler
+└── Status     : ACTIVE // MONITORING FREQUENCIES
+```
 
----
+<div align="center">
+  <sub>CLASSIFIED SYSTEM // AUTHORIZED ACCESS ONLY // GÖRKEM GÜLER SECURITY OPERATIONS</sub>
+</div>
