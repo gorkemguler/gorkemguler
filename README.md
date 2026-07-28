@@ -1,11 +1,5 @@
 <div align="center">
 
-  <!-- Cyber Terminal GIF Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" height="160" style="object-fit: cover; border-radius: 8px;" />
-
-  <br/>
-  <br/>
-
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/gorkemguler">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=DC2626&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+G%C3%B6rkem+G%C3%Bcler;Threat+Intelligence+Analyst;Threat+Hunter;Security+Automation+Developer;OSINT+%26+Brand+Protection+Specialist" alt="Header" />
@@ -37,6 +31,12 @@
 
 ### Operational Focus
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" />
+</div>
+
+<br/>
+
 ```text
  ┌── [CAPABILITIES MATRIX] ──────────────────────────────────────────────────────────────┐
  │                                                                                        │
@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,apple,bash,git,postgres,vscode,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,postgres,git,apple,vscode&theme=dark" />
   </a>
 </div>
 
