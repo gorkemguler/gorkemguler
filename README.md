@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,postgres,git,apple,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,cloudflare,postgres,aiscript,git,raspberrypi,vscode&theme=dark" />
   </a>
 </div>
 
